@@ -1,6 +1,6 @@
 Sales forecast for an E-commerce startup to help the business make better decisions.
 
-![Screenshot](/kaggel olist data.png)
+![Screenshot](Sales-forecast-for-Brazilian-ecommerce-startup-olist/kaggel olist data.png)
 
 
 
