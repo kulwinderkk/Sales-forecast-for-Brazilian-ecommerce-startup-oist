@@ -1,8 +1,4 @@
-**Sales forecast for an E-commerce startup to help the business make better decisions.**
-
-![kaggel olist data](kaggel olist data.png)
-
-
+# Sales forecast for an E-commerce startup to help the business make better decisions.
 
 Sales forecasting is challenging for any business because of the limited historical data, unprecedented external factors like weather, natural events, government policies and mostly because of the volatile nature of market.
 
