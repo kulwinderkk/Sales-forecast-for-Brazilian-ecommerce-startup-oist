@@ -1,4 +1,4 @@
-Sales forecast for an E-commerce startup to help the business make better decisions.
+**Sales forecast for an E-commerce startup to help the business make better decisions.**
 
 ![kaggel olist data](kaggel olist data.png)
 
