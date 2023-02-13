@@ -1,4 +1,4 @@
-README file..
+Sales forecast for an E-commerce startup to help the business make better decisions.
 
 This project aims to apply various forecasting method to do Sales forecast for Brazilian E-Commerce startup Olist. 
 
