@@ -1,4 +1,4 @@
-# Sales forecast for an E-commerce startup to help the business make better decisions.
+# Optimal Sales Forecast Model Assessment  - eCommerce Startup
 
 ![image](dataset-cover.png)
 
