@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Optimal Sales Forecast Model Assessment - eCommerce Startup.
-=======
-# Optimal Sales Forecast Model Assessment  - eCommerce Startup
->>>>>>> 4e3b319375666669946355ad457629e520d23007
 
 ![image](dataset-cover.png)
 
