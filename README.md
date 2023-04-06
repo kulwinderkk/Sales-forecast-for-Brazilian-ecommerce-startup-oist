@@ -17,3 +17,5 @@ This project aims to apply various forecasting method to do Sales forecast for B
 - Data_cleaning_notebook_1 is the first notebook which loads actual data, cleans and merge all the table into master table.
 - Time_series_notebook_2 is the second notebook where I have tried different modelling approaches to time series forecasting.
 4.	There are two pdfs for report and presentation.
+
+In addition to this work, I have also prepared and published visualizations in [Tableau](https://public.tableau.com/app/profile/kulwinder.kaur6496/viz/OlistBrazilianE-Commercedataanalysis-businessandproductstrategy/Businessperformancedashboard) which include dashboards for business and product strategy heads along with some stories bringing out crucial insights about the popularity of products by month, the relationship between freight and rating, customer and seller location, etc.
